@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageUploadAzureBlob", "ImageUploadAzureBlob\ImageUploadAzureBlob.csproj", "{AC087940-E057-4B7D-B99D-F8E69F711ECF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageUploadAzureBlob.Test", "ImageUploadAzureBlob.Test\ImageUploadAzureBlob.Test.csproj", "{7DCB5DF9-56FA-44EC-BC9A-2D6341FD519C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC087940-E057-4B7D-B99D-F8E69F711ECF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC087940-E057-4B7D-B99D-F8E69F711ECF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC087940-E057-4B7D-B99D-F8E69F711ECF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC087940-E057-4B7D-B99D-F8E69F711ECF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DCB5DF9-56FA-44EC-BC9A-2D6341FD519C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DCB5DF9-56FA-44EC-BC9A-2D6341FD519C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DCB5DF9-56FA-44EC-BC9A-2D6341FD519C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DCB5DF9-56FA-44EC-BC9A-2D6341FD519C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D872CD76-F5DD-457D-81E4-5C03E52BF2FD}
+	EndGlobalSection
+EndGlobal
